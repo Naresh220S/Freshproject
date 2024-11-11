@@ -1,0 +1,14 @@
+1.Consider a company built on some kind of Monolithic architecture. How do you think the company should shift from
+   monolithic to microservices and how can they implement Kubernetes in it?
+
+2. Can you explain the Kubernetes architecture?
+
+3. Why should I choose Kubernetes, and why shouldn't I go with Docker Swarm?"
+   
+4. What are all the services that you have worked on in Kubernetes, and can you explain a few of them?
+
+   
+   
+
+
+ 
